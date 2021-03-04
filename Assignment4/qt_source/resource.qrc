@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/empty_space.png</file>
+        <file>images/left_light.png</file>
+        <file>images/right_light.png</file>
+        <file>images/vehicle_normal.png</file>
+    </qresource>
+</RCC>
